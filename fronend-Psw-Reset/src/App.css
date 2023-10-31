@@ -1,0 +1,7 @@
+.top {
+  display: flex;
+  justify-content: space-around;
+}
+body{
+  background-color: rgb(240, 238, 236);
+}
